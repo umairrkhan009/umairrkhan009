@@ -1,15 +1,5 @@
-### Hi there 👋 
+### 👋 Hi, I'm Umair – a Full-Stack Developer passionate about building clean UIs and scalable backend systems. 
 
-- 🔭 I'm currently a Student.
-- 🌱 I’m currently learning HTML,CSS & JAVASCRIPT.
-- 👯 I’m looking to collaborate on My Projects.
-
-<!--
-**umairrkhan009/umairrkhan009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a Student.
-- 🌱 I’m currently learning HTML,CSS & JAVASCRIPT.
-- 👯 I’m looking to collaborate on My Projects.
--->
+-💻 Currently working on web apps with React, Next.js, Node.js, and Tailwind CSS.
+-🚀 Exploring real-time apps, deployment, and open source collaboration.
+-📬 Always open to learning, feedback, and cool project ideas!
